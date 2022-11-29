@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">stories_application</string>
+    <string name="story2">As well as containing stories which are precursors to modern detective fiction (see ‘The Three Apples’ above), the Arabian Nights also contains what might be considered proto-science-fiction tales too! The ebony horse in this story is a flying mechanical horse which is controlled using keys. It can even fly into space and cover the distance of one year in a single day. The protagonist of the story (aside from the horse, of course) is the Prince of Persia, Qamar al-Aqmar. The inventor of the fabulous mechanical horse shows up in the city of Shiraz, and the king buys the horse for his son. The prince then rides the flying horse off on numerous adventures, meets and falls in love with a Bengali princess, and incurs the wrath of the inventor of the horse … This is yet another story which was only added to the collection (by Galland) in 1709, although the narrative is thought to be much older.</string>
+    <string name="story1">This is another tale in which the protagonist encounters a vengeful jinni or jinnee rather than the helper we find in the Aladdin story (see below). Indeed, as with the tale of the Merchant and the Jinnee above, the spirit in this story sentences the poor fisherman (who is already down on his luck) to death. However, the quick-thinking fisherman manages to outwit his supernatural nemesis ….</string>
+    <string name="story3">This is one of the earliest detective stories. The body of a mutilated woman turns up in a wooden chest, and the sultan’s vizier is charged with solving the crime in three days, or he himself will be executed.
+
+    The vizier fails to work out ‘whodunnit’, and makes little attempt to crack the case (hence the story’s status as an ‘anti-detective’ story), but the hapless vizier is saved from death when the real murderer shows up at the last minute and confesses..</string>
+    <string name="story5">This is another tale in which the protagonist encounters a vengeful jinni or jinnee rather than the helper we find in the Aladdin story (see below). Indeed, as with the tale of the Merchant and the Jinnee above, the spirit in this story sentences the poor fisherman (who is already down on his luck) to death. However, the quick-thinking fisherman manages to outwit his supernatural nemesis ….</string>
+    <string name="story4">This is another tale in which the protagonist encounters a vengeful jinni or jinnee rather than the helper we find in the Aladdin story (see below). Indeed, as with the tale of the Merchant and the Jinnee above, the spirit in this story sentences the poor fisherman (who is already down on his luck) to death. However, the quick-thinking fisherman manages to outwit his supernatural nemesis ….</string>
+    <string name="title">the story title</string>
+    <string name="story1_title">Aladdin and the Magic Lamp</string>
+    <string name="story2_title">The Ebony Horse</string>
+    <string name="story3_title">The Three Apples</string>
+    <string name="story4_title">The Fisherman and the Jinnee</string>
+    <string name="story5_title">King Shahryar and His Brother.</string>
+</resources>
